@@ -1,0 +1,14 @@
+20:59:36.989 [main] DEBUG api.test.UserTests -  **************** Creating User ******************* 
+20:59:38.715 [main] DEBUG api.test.UserTests -  **************** User Is Created ***************** 
+20:59:38.728 [main] DEBUG api.test.UserTests -  **************** Reading User Info *************** 
+20:59:39.322 [main] DEBUG api.test.UserTests -  **************** User Info Displayed ************* 
+20:59:39.328 [main] DEBUG api.test.UserTests -  **************** Updating User ******************* 
+20:59:39.888 [main] DEBUG api.test.UserTests -  **************** User Is Updated ***************** 
+20:59:40.466 [main] DEBUG api.test.UserTests -  **************** Deleting User ******************* 
+20:59:41.059 [main] DEBUG api.test.UserTests -  **************** User Is Deleted ***************** 
+07:47:34.510 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+07:47:34.514 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+07:47:34.515 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+07:47:34.975 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+07:47:34.976 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+07:47:34.976 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
